@@ -1,4 +1,3 @@
-# edgarfelizmenio.github.io
-Personal Website
+# About Me
 
-lgma
+I am Edgar Felizmenio, a PhD student in Pusan National University.
